@@ -60,11 +60,8 @@ After rigorous experimentation, **XGBoost** emerged as the best-performing model
 
 Proud of what we built together\!
 
-> * **\[Your Name\]**  
+> * **Eng. Ammar Yasser**  
 > * **Eng. Toka Abdelaziz**  
 > * **Eng. Esraa EL-Tohamy**  
-> * **Eng. Ammar Yasser**
+> * **Eng. Samah Mahmoad**
 
-## **Acknowledgments**
-
-Special thanks to our facilitator **Eng. Mariam El Gazzar** for her continuous support and valuable feedback, and to **Eng. Abdul Rahman Abdelalem** for his guidance throughout the project at Samsung Innovation Campus.
